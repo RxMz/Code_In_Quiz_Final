@@ -4,6 +4,8 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.event.*;
+//Rishabh Minocha
+//Google Code In 2015
 import java.util.*;
 class  Quiz_Code_In extends JFrame implements ActionListener{
             JPanel panel;
@@ -24,7 +26,7 @@ class  Quiz_Code_In extends JFrame implements ActionListener{
                     initializedata();
                      setTitle("Quiz Code In");
                      setDefaultCloseOperation(EXIT_ON_CLOSE);
-                      setSize(700,700);
+                      setSize(720,700);
                       setLocation(300,00);
                       setResizable(false);
                       Container cont=getContentPane();
